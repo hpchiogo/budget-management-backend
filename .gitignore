@@ -1,0 +1,4 @@
+
+//Cela empêchera Git d'inclure ce fichier dans vos commits
+
+.env
